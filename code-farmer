@@ -2,5 +2,13 @@
 # AUTHOR: PipuWong
 # REPO: https://github.com/pipuwong/Surger-Rule
 # UPDATED: 2024-12-17 16:14:51
+
+
+#v2ex
 DOMAIN-SUFFIX,v2ex.com
 DOMAIN-SUFFIX,cdn.v2ex.com
+
+#HackerNews
+DOMAIN-SUFFIX,ycombinator.com
+DOMAIN-SUFFIX,news.ycombinator.com
+DOMAIN-SUFFIX,news.ycombinator.io
