@@ -4,9 +4,9 @@
 # UPDATED: 2024-12-17 16:14:51
 
 #另常见的匹配方式：
-DOMAIN：完整域名精确匹配
-DOMAIN-KEYWORD：域名关键词匹配
-IP-CIDR：IP 段匹配
+#DOMAIN：完整域名精确匹配
+#DOMAIN-KEYWORD：域名关键词匹配
+#IP-CIDR：IP 段匹配
 
 
 #v2ex
